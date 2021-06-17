@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 * 🔭 I’m currently working on my project [python-scrapy](https://github.com/AnTi-anti/python-scrapy)
 * 🌱 I’m currently learning ML && DL
 * 👯 I’m looking to find on a job about NLP or Data Analysis
-* 💬 Ask me vrerything about wechat:gzwl8023
+* 💬 
 
 Languages and Tools:
 * python
